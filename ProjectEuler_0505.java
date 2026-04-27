@@ -1,12 +1,12 @@
 /**
  * 
  */
-public class ProjectEuler_0357 {
+public class ProjectEuler_0505 {
 
 	/**
 	 * 
 	 */
-	public ProjectEuler_0357() {
+	public ProjectEuler_0505() {
 		// TODO Auto-generated constructor stub
 	}
 
