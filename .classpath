@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/Dell/git/PElakus/rsc/big-math-2.3.2.jar"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
