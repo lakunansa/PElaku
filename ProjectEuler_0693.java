@@ -1,11 +1,6 @@
 /**
  * 
  */
-
-
-/**
- * 
- */
 public class ProjectEuler_0693 {
 
 	/**
